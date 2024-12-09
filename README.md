@@ -14,7 +14,7 @@ Exercises that test your SQL skills and teach you Exposed :)
 
 Want to know what it's like to write queries for a website that sells computers? 
 Do the exercises in [PcCompanyExercises](src/main/kotlin/com/example/pc/PcCompanyExercises.kt)!
-* See schema in [PcCompanySchema](src/main/kotlin/com/example/pc/PcCompanySchema.kt)
+* See the schema in [PcCompanySchema](src/main/kotlin/com/example/pc/PcCompanySchema.kt)
 * You can test your solutions by running [PcCompanyExercisesTest](src/test/kotlin/com/example/pc/PcCompanyExercisesTest.kt)
 * If you get stuck, have a look at the plain SQL solutions in [sql-solutions/pc](src/main/resources/sql-solutions/pc)
   and try to implement them with Exposed.

@@ -49,7 +49,7 @@ class PcCompanyExercises {
     }
 
     /**
-     * Get the models and prices for all commercially available products (of any type) produced by maker B.
+     * Get the models and prices for all commercially available products (of any type) produced by maker "B".
      *
      * Result set: model, price
      */
